@@ -8,8 +8,9 @@
 
 
 ### 搭配使用：
+
 ####     webpack基础配置功能(webpack.config.js)：
--加载器生成CSS、html、JS文件、图片转换base64、合并雪碧图等
+加载器生成CSS、html、JS文件、图片转换base64、合并雪碧图等
 
 ####     gulp处理分为两种环境：开发环境和生产环境
 - 开发环境：webpack打包的同时，搭建静态环境，同步刷新
